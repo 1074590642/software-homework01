@@ -1,7 +1,7 @@
 # software-homework01
 Business English 1401 陈啟刚 201434078
 
- Now we all know that English is a special important discipline, no matter what is your major, almost all professional need to learn English,And English have much variety test . A lot of non-english major students don't have enough time and energy to learning English . But their work or study requires them to have to pass some English examinations .
+ Now we all know that English is a especially important discipline, no matter what is your major, almost all professionals need to learn English,And English have many various tests . A lot of non-english major students don't have enough time and energy to learning English . But their work or study requires them to have to pass some English examinations .
  Scallops words is a popular software used for memorizing words , It has all kinds of dealing with all kinds of test data , for example，CET4,CET6,tem4,tem8,toefl ， ielts and GRE . The most unique of scallops words is can let people unremitting memorizing words . Scallops word software has a feature is that memorizing words will be recorded every day . And it will arrange to review on a regular basis ，Unfamiliar words will be repeated memory, until completely mastered . I now use it in preparing for the exam professional level 4, so choose the professional level 4 English vocabulary. Have remember 2000 words, and continued . 
 Now there are much more special software which are used to recite words .
 But in my opinion , scallops word is the most scientific, most effective one . Another common used for memorizing words software is called the word cut ，Use the word software remember the words quickly ，But at the same time forgetting is particularly fast .
